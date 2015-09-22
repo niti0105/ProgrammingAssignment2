@@ -7,7 +7,7 @@
 ## makeCacheMatrix function is a function that creates a list of four functions.
 ## These functions set and get, sets the matrix and returns the matrix, 
 ## while the functions setinverse and getinverse sets the inverse of the matrix
-## and returns it respectively.
+## and returns it respectively. 
 
 makeCacheMatrix <- function(x = matrix()) {
   
